@@ -1,7 +1,7 @@
 import React from 'react';
 import {SafeAreaView, View, Text, FlatList, Image, StyleSheet, Dimensions} from 'react-native';
-import RestaurantCard from './RestaurantCard';
-import restaurant_data from './restaurant_data.json';
+import RestaurantCard from './components/RestaurantCard';
+import restaurant_data from './components/restaurant_data.json';
 
 
 
